@@ -1,0 +1,1 @@
+Repositório contendo vários projetos simples com manipulação de arrays com javascript.
